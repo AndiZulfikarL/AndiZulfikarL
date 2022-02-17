@@ -6,7 +6,10 @@ Saya seorang **Sarjana Komputer** lulusan **UNISKA BANJARMASIN MAB**
 
 Saya juga mengikuti beberapa kelas di **Dicoding** untuk meningkatkan skill programming saya seperti :
 
-  * Kelas Belajar Dasar Pemrograman 
+  * Kelas Belajar Dasar Git dan GitHub
+    (https://www.dicoding.com/certificates/6RPN82GQ4Z2M)
+
+  * Kelas Belajar Dasar Pemrograman Web
     (https://www.dicoding.com/certificates/6RPNKN498P2M)
     
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akunku di bawah ini yaa :)
