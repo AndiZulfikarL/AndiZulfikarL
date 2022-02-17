@@ -1,16 +1,14 @@
-### Hi there 👋
+# Halo Semua!
 
-<!--
-**AndiZulfikarL/AndiZulfikarL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan Nama Saya **Andi Zulfikar Lavabetha**.
 
-Here are some ideas to get you started:
+Saya seorang **Sarjana Komputer** lulusan **UNISKA BANJARMASIN MAB**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya juga mengikuti beberapa kelas di **Dicoding** untuk meningkatkan skill programming saya seperti :
+
+  * Kelas Belajar Dasar Pemrograman 
+    (https://www.dicoding.com/certificates/6RPNKN498P2M)
+    
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akunku di bawah ini yaa :)
+[Instagram](https://www.instagram.com/andizulfikaraco/)
+[LinkedIn](https://www.linkedin.com/in/andi-zulfikar-543982229/)
